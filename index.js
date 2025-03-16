@@ -21,3 +21,7 @@ const upload = multer({ dest: "uploads/"});
 //declare variables for CD cover dimensions in points for PDF
 const PDF_WIDTH = 340;  //4.724 inches * 72 DPI
 const PDF_HEIGHT = 340; //4.724 inches * 72 DPI
+
+app.post("/upload"), upload.single("image"), async(requestAnimationFrame, res) => {
+    
+}

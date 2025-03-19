@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HansonGrace/ImageToCDCover/issues"
   },
-  "homepage": "https://github.com/HansonGrace/ImageToCDCover#readme"
+  "homepage": "https://github.com/HansonGrace/ImageToCDCover#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }

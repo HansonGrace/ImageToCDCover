@@ -1,1 +1,0 @@
-const { app, Window, Text } = require('@nodegui/nodegui');
